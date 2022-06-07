@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pokemon</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Pokemon</h1>
+    <div id="container1">
+        <h2 id="nome">nome</h2>
+        <img id="imagem">
+        <h3 id="numero">número</h3>
+    </div>
+    <p>Escolha o número do seu Pokemon:</p>
+    <input type="number" id="num" min="1" max="151" autofocus>
+    <button onclick="pokedex()" >Carregar</button>
+    <br>
+    <p>Escolha seu Pokemon conforme lista abaixo de 1 a 151</p>
+    <div id="container2">
+        <lu id="lista"></lu>
+    </div>
+  
+    <script src="pokedex.js"></script>
+</body>
+</html>

@@ -1,0 +1,21 @@
+body{
+    background-color:rgb(53, 185, 185);
+    text-align: center;
+}
+
+#container1{
+    width: 180px;
+    background-color: gray;
+    border-radius: 5px;
+    margin: auto;
+    padding: 1px;
+}
+
+#container2{
+    width: 135px;
+    background-color: gray;
+    border-radius: 5px;
+    margin: auto;
+    padding: 10px;
+    text-align: left;
+}
