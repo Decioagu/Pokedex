@@ -3,5 +3,5 @@
  
  Modesto, simples, mas funciona!!!
  
- Conforme lista escolha o seu Pokemon pelo número correspondente...
+ Conforme lista apresentada na pagina, escolha o seu Pokemon pelo número correspondente...
  
